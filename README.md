@@ -85,7 +85,7 @@ Este proyecto está organizado en una estructura de carpetas y archivos destinad
 Para ejecutar las pruebas, utiliza el siguiente comando:
 
     Navega al directorio donde fue descargado el proyecto:
-        -cd:"(tudirectorio)/PruebaREDABOR"
+        -cd:"(tudirectorio)/PruebaREDABOR--main"
         -ejecuta el siguiente comando:
         -python -m unittest Test.prueba_red_abor
 ## Post Pruebas
