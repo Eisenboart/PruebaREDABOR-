@@ -20,13 +20,21 @@ Este proyecto contiene scripts de automatización para pruebas utilizando Seleni
 3. Crea un entorno virtual (opcional pero recomendado):
 
    Paso a paso en windows:
+   
    -Abre un terminal (powershell) como administrador
+   
    -Ejecuta los siguientes comandos:
+   
         -python -m venv venv
+   
         -Set-ExecutionPolicy RemoteSigned -Scope Process
+   
         - .\venv\Scripts\Activate
+   
    -Instala las dependencias:
+   
         -pip install Selenium
+   
         -(en caso de 2 o mas dependecias) pip install -r requirements.txt
 
 
