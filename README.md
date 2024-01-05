@@ -88,6 +88,12 @@ Para ejecutar las pruebas, utiliza el siguiente comando:
         -cd:"(tudirectorio)/PruebaREDABOR"
         -ejecuta el siguiente comando:
         -python -m unittest Test.prueba_red_abor
+## Post Pruebas
+
+Después de que hayas terminado con tu trabajo en PowerShell, puedes restaurar la política de ejecución a su valor original ejecutando el siguiente comando:
+
+   -Set-ExecutionPolicy -Scope Process -ExecutionPolicy Undefined
 
 ## Contacto
 Para preguntas o comentarios, contacta a Rodrigo Eisenboart <rodeisen@gmail.com>
+ 
